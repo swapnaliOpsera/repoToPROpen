@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>record_type_27_Jan1</fullName>
+    <active>true</active>
+    <label>record_type_27_Jan1</label>
+    <picklistValues>
+        <picklist>nation__c</picklist>
+        <values>
+            <fullName>India</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>North</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>South</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
