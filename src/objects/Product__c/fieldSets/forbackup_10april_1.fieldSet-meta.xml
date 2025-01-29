@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>forbackup_10april_1</fullName>
+    <availableFields>
+        <field>Auto_Number__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <description>In product custom object</description>
+    <label>forbackup_10april_1</label>
+</FieldSet>
