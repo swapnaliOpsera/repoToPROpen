@@ -2241,7 +2241,7 @@ DEF</value>
         <fullName>Current_Period_Start_Date</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>Current Period Start Date edit opsera 1 </shortDescription>
+        <shortDescription>Current Period Start Date edit opsera 1 again </shortDescription>
         <value>2022-04-02</value>
     </labels>
     <labels>
@@ -6254,7 +6254,7 @@ System Information - Do Not Delete %0A %0A</value>
         <fullName>NF_Execute_Start_Delivery</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>NF_Execute (Start Delivery) edit opsera </shortDescription>
+        <shortDescription>NF_Execute (Start Delivery) edit opsera again </shortDescription>
         <value>https://nokia--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000002Ay8O&amp;oid=00D030000004gKS</value>
     </labels>
     <labels>
