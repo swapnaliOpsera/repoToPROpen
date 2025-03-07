@@ -4,7 +4,7 @@ public class TemperatureConverter {
         return (celsius * 9/5) + 32;
     }
     // Convert Fahrenheit to Celsius
-    public static Decimal fahrenheitToCelsius(Decimal fahrenheit) {
+    public static Decimal fahrenheitToCelsiusTest(Decimal fahrenheit) {
         return (fahrenheit - 32) * 5/9;
     }
 }
