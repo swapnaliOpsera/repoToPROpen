@@ -7,7 +7,6 @@ public class TemperatureConverterTest {
         Decimal actualFahrenheit = TemperatureConverter.celsiusToFahrenheit(celsius);
         System.assertEquals(expectedFahrenheit, actualFahrenheit, '0°C should be 32°F');
     }
-
     @isTest
     @isTest
     static void testFahrenheitToCelsius() {
@@ -15,6 +14,5 @@ public class TemperatureConverterTest {
         Decimal expectedCelsius = 0;
         Decimal actualCelsius = TemperatureConverter.fahrenheitToCelsius(fahrenheit);
         System.assertEquals(expectedCelsius, actualCelsius, '32°F should be 0°C');
-
     }
 }
