@@ -11,7 +11,7 @@ public class TemperatureConverterTest {
     static void testFahrenheitToCelsius() {
         Decimal fahrenheit = 32;
         Decimal expectedCelsius = 0;
-        Decimal actualCelsius = TemperatureConverter.fahrenheitToCelsius(fahrenheit);
+        Decimal actualCelsius = TemperatureConverter.fahrenheitToCelsiusTest(fahrenheit);
         System.assertEquals(expectedCelsius, actualCelsius, '32°F should be 0°C');
     }
 }
