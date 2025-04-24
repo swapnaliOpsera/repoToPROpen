@@ -17,7 +17,7 @@ public class TemperatureConverterTest {
     }
 
 private class TemperatureConverterTest {
- /* @isTest static void testWarmTemp() {
+  @isTest static void testWarmTemp() {
     Decimal celsius = TemperatureConverter.FahrenheitToCelsius(70);
     System.assertEquals(21.11,celsius);
   }
@@ -32,5 +32,5 @@ private class TemperatureConverterTest {
   @isTest static void testNegativeTemp() {
     Decimal celsius = TemperatureConverter.FahrenheitToCelsius(-10);
     System.assertEquals(-23.33,celsius);
-  } */
+  }
 }
