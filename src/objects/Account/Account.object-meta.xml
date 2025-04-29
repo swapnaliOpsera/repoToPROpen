@@ -244,7 +244,7 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>WebsiteHighlightAction</actionName>
-        <formFactor>Samll</formFactor>
+        <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
