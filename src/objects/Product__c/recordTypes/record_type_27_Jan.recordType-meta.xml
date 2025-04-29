@@ -7,7 +7,7 @@
         <picklist>nation__c</picklist>
         <values>
             <fullName>India</fullName>
-            <default>false</default>
+            <default>true</default>
         </values>
         <values>
             <fullName>Japan</fullName>
