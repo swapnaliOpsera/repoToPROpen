@@ -2,7 +2,7 @@
 <WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Submit</fullName>
     <availability>online</availability>
-    <description>Test Submit</description>
+    <description>Test Submit PR 3</description>
     <displayType>link</displayType>
     <linkType>javascript</linkType>
     <masterLabel>Submit</masterLabel>
