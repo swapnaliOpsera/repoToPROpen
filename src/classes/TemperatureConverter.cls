@@ -1,6 +1,5 @@
 public class TemperatureConverter {
-
-    // Convert Celsius to Fahrenheit 7March 2
+    // Convert Celsius to Fahrenheit 7March 2 demo
     public static Decimal celsiusToFahrenheit(Decimal celsius) {
         return (celsius * 9/5) + 32;
     }
@@ -9,11 +8,3 @@ public class TemperatureConverter {
         return (fahrenheit - 32) * 5/9;
     }
 }
-
-  // Takes a Fahrenheit temperature and returns the Celsius equivalent.
-  public static Decimal FahrenheitToCelsius(Decimal fh) {
-    Decimal cs = (fh - 32) * 5/9;
-    return cs.setScale(2);
-  }
-}
-
