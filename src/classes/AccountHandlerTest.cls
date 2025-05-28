@@ -1,12 +1,13 @@
 @isTest
 public class AccountHandlerTest {
-    /*@isTest
+    @isTest
     static void testCreateHighValueAccount() {
         // This test provides invalid data, so it will hit the exception
         Test.startTest();
         AccountHandler1.createHighValueAccount('', 50000); // This line will throw an exception
         Test.stopTest();
-    }*/
+    }
+	/*
     @isTest
     static void testCreateHighValueAccount_Valid() {
         Test.startTest();
@@ -23,5 +24,5 @@ public class AccountHandlerTest {
         } catch (Exception e) {
             System.assert(e.getMessage().contains('Invalid account data'));
         }
-    } 
+    } */
 }
