@@ -1,5 +1,5 @@
 @isTest
-public class TemperatureConverterTest {
+public class TemperatureConverterTest2 {
     //test class
     @isTest
     static void testCelsiusToFahrenheit() {
