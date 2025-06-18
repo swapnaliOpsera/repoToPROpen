@@ -1,4 +1,4 @@
-public class TemperatureConverter {
+public class Demo17 {
     // Convert Celsius to Fahrenheit 7March 2 demo
     public static Decimal celsiusToFahrenheit(Decimal celsius) {
         return (celsius * 9/5) + 32;
