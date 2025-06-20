@@ -1,4 +1,4 @@
-// Helper Class (Dependent)
+// Helper Class (Dependent) demo
 public class DependentClass20June {
     public static String getAccountDetails(Id accountId) {
         Account acc = [SELECT Name, Industry FROM Account WHERE Id = :accountId];
