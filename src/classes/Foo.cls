@@ -1,6 +1,6 @@
 @isTest(seeAllData = 'true')
 public class Foo {
-        // This test accesses an existing account. 
+        // This test accesses an existing account.  To test bulk migartion
     // It also creates and accesses a new test account.
   /*  @IsTest
     static void myTestMethod1() {
