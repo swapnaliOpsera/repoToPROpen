@@ -304,14 +304,6 @@
             <helpText>Showed knowledge of the prospect and their history, and kept the conversation relevant.</helpText>
             <isRequired>false</isRequired>
             <scale>0</scale>
-            <styleProperties>
-                <verticalAlignment>
-                    <stringValue>top</stringValue>
-                </verticalAlignment>
-                <width>
-                    <stringValue>12</stringValue>
-                </width>
-            </styleProperties>
         </fields>
         <fields>
             <processMetadataValues>
@@ -346,14 +338,6 @@
             <helpText>Asked the right questions to evaluate the lead and determine fit.</helpText>
             <isRequired>false</isRequired>
             <scale>0</scale>
-            <styleProperties>
-                <verticalAlignment>
-                    <stringValue>top</stringValue>
-                </verticalAlignment>
-                <width>
-                    <stringValue>12</stringValue>
-                </width>
-            </styleProperties>
         </fields>
         <fields>
             <processMetadataValues>
@@ -387,14 +371,6 @@
             <helpText>Uncovered 3 - 4 business problems and how they impact the prospect&apos;s bottom line.</helpText>
             <isRequired>false</isRequired>
             <scale>0</scale>
-            <styleProperties>
-                <verticalAlignment>
-                    <stringValue>top</stringValue>
-                </verticalAlignment>
-                <width>
-                    <stringValue>12</stringValue>
-                </width>
-            </styleProperties>
         </fields>
         <fields>
             <processMetadataValues>
@@ -428,14 +404,6 @@
             <helpText>Offered tangible and appropriate solutions, and set an agenda for follow-up.</helpText>
             <isRequired>false</isRequired>
             <scale>0</scale>
-            <styleProperties>
-                <verticalAlignment>
-                    <stringValue>top</stringValue>
-                </verticalAlignment>
-                <width>
-                    <stringValue>12</stringValue>
-                </width>
-            </styleProperties>
         </fields>
         <fields>
             <processMetadataValues>
@@ -470,14 +438,6 @@
             <helpText>Validated the prospect&apos;s objections, alleviated their concerns, and moved the conversation forward.</helpText>
             <isRequired>false</isRequired>
             <scale>0</scale>
-            <styleProperties>
-                <verticalAlignment>
-                    <stringValue>top</stringValue>
-                </verticalAlignment>
-                <width>
-                    <stringValue>12</stringValue>
-                </width>
-            </styleProperties>
         </fields>
         <fields>
             <processMetadataValues>
@@ -492,14 +452,6 @@
             <fieldText>&lt;p&gt;&lt;strong style=&quot;font-family: Arial; font-size: 10pt;&quot;&gt;What&apos;s one thing you learned from this call?&lt;span class=&quot;ql-cursor&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</fieldText>
             <fieldType>ComponentInput</fieldType>
             <isRequired>false</isRequired>
-            <styleProperties>
-                <verticalAlignment>
-                    <stringValue>top</stringValue>
-                </verticalAlignment>
-                <width>
-                    <stringValue>12</stringValue>
-                </width>
-            </styleProperties>
         </fields>
         <fields>
             <processMetadataValues>
@@ -514,14 +466,6 @@
             <fieldText>&lt;p&gt;&lt;strong style=&quot;font-family: Arial; font-size: 10pt;&quot;&gt;What&apos;s the most important thing your teammate can do to improve?&lt;/strong&gt;&lt;/p&gt;</fieldText>
             <fieldType>ComponentInput</fieldType>
             <isRequired>false</isRequired>
-            <styleProperties>
-                <verticalAlignment>
-                    <stringValue>top</stringValue>
-                </verticalAlignment>
-                <width>
-                    <stringValue>12</stringValue>
-                </width>
-            </styleProperties>
         </fields>
         <pausedText>To pick up where you left off, refresh this page, or open the survey again.</pausedText>
         <showFooter>true</showFooter>
