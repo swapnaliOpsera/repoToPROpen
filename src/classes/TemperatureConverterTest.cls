@@ -1,18 +1,30 @@
 @isTest
-public class TemperatureConverterTest {
-    //test class
-    @isTest
-    static void testCelsiusToFahrenheit() {
-        Decimal celsius = 0;
-        Decimal expectedFahrenheit = 32;
-        Decimal actualFahrenheit = TemperatureConverter.celsiusToFahrenheit(celsius);
-        System.assertEquals(expectedFahrenheit, actualFahrenheit, '0°C should be 32°F');
+private class TemperatureConverterTest {
+    @isTest static void testWarmTemp() {
+        Decimal celsius = TemperatureConverter.FahrenheitToCelsius(70);
+        System.assertEquals(21.11,celsius);
     }
-    @isTest
-    static void testFahrenheitToCelsius() {
-        Decimal fahrenheit = 32;
-        Decimal expectedCelsius = 0;
-        Decimal actualCelsius = TemperatureConverter.fahrenheitToCelsius(fahrenheit);
-        System.assertEquals(expectedCelsius, actualCelsius, '32°F should be 0°C');
+    @isTest static void testFreezingPoint() {
+        Decimal celsius = TemperatureConverter.FahrenheitToCelsius(32);
+        System.assertEquals(0,celsius);
+    }
+    @isTest static void testBoilingPoint() {
+        Decimal celsius = TemperatureConverter.FahrenheitToCelsius(212);        
+        System.assertEquals(100,celsius,'Boiling point temperature not expected. 16 Jan 24 Run number 6');
+    } 
+
+    @isTest static void testNegativeTemp() {
+        Decimal celsius = TemperatureConverter.FahrenheitToCelsius(-10);
+       System.assertEquals(-23.33,celsius);
+    }
+
+    @isTest static void testNormalTemp(){
+        Decimal fahrenheit = TemperatureConverter.CelsiusToFahrenheit(30);
+       System.assertEquals(86,fahrenheit);
+    }
+
+    @isTest static void testCeltoKevin(){
+        Decimal cel = TemperatureConverter.CelsiusToKelvin(40);
+       System.assertEquals(313.15,cel);
     }
 }
