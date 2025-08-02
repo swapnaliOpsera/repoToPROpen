@@ -1,11 +1,11 @@
 @isTest
-public class DeleteDemoApex10 {
+public class DeleteDemo_Apex10_Spaces {
 private Integer num;
     
     @isTest
    public static void helloMethod() {
 
-        System.debug('Change Hello DemoApex11 Basic Pipeline Gitlab 23july2025');
+        System.debug('Change Hello DemoApex11 Basic Pipeline in PROD Webhook Triggering 24/07/25');
     
 
     }

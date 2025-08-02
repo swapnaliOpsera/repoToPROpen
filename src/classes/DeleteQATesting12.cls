@@ -5,12 +5,12 @@ private Integer num;
     @isTest
    public static void helloMethod() {
 
-        System.debug('Change Hello QA Pipeline 02/july/2025');
+        System.debug('Change Hello QA Testing Basic Pipeline testing Github workflow Beta Run 11 Julye');
     
 
     }
     
     public static testMethod void testNewMethod() {
-        System.debug('Change Hello DemoApex10 testing 1234 Basic ');
+        System.debug('Change Hello DemoApex10 testing Github 21/02/2024 ');
     }
 }
