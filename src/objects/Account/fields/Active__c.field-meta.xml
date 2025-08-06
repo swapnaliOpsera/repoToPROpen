@@ -2,6 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Active__c</fullName>
     <description>Newly add Demo test PR validation</description>
+    <inlineHelpText>Newly add Demo test PR validatio</inlineHelpText>
     <label>Active</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
@@ -23,6 +24,11 @@
                 <fullName>Gold</fullName>
                 <default>false</default>
                 <label>Gold</label>
+            </value>
+            <value>
+                <fullName>silver</fullName>
+                <default>false</default>
+                <label>silver</label>
             </value>
         </valueSetDefinition>
     </valueSet>
