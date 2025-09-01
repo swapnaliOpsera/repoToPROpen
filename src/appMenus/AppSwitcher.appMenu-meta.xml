@@ -148,4 +148,12 @@
         <name>standard__PreconfiguredLightningServiceConsole</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>portal</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>swapAura</name>
+        <type>Network</type>
+    </appMenuItems>
 </AppMenu>
