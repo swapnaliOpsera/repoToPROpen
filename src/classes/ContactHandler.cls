@@ -12,7 +12,7 @@ public class ContactHandler {
         if (String.isBlank(firstName) || String.isBlank(lastName)) {
             return 'First and last name are required';
         }
-
+}
         try {
             Contact con = new Contact(
                 FirstName = firstName,
