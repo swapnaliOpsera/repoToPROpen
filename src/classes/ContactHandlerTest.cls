@@ -8,7 +8,7 @@ private class ContactHandlerTest {
         Test.stopTest();
         System.assert(result.contains('Contact created with Id'), 'Expected success message');
     }
- /*
+ /* test
     @isTest
     static void testCreateContact_MissingFirstName() {
         Test.startTest();
