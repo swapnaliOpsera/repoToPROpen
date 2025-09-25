@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>CustomObjectDemo_Two</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>CustomObjectDemo_Twos</value>
+    </caseValues>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- test --></errorMessage>
+        <name>TestValidationRule2</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- test --></errorMessage>
+        <name>TestValidationRule3</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- test --></errorMessage>
+        <name>TestValidationRule4</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- test --></errorMessage>
+        <name>TestValidationRule5</name>
+    </validationRules>
+</CustomObjectTranslation>
