@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <recordTypes>
+        <description><!-- delta delta2 delta3 delta4 --></description>
+        <label><!-- Core_A_S --></label>
+        <name>Core_A_S</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Core_A_S1 --></label>
+        <name>Core_A_S1</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- DeliveryStatus --></label>
+        <name>DeliveryStatus</name>
+    </webLinks>
+</CustomObjectTranslation>
