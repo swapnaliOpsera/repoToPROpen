@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Standard_Picklist_swap__c</fullName>
+    <label>Standard Picklist swap</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Yes</fullName>
+                <default>false</default>
+                <label>Yes</label>
+            </value>
+            <value>
+                <fullName>no</fullName>
+                <default>false</default>
+                <label>no</label>
+            </value>
+            <value>
+                <fullName>nothing</fullName>
+                <default>false</default>
+                <label>nothing</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
