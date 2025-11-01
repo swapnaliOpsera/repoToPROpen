@@ -97,10 +97,6 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Opsera</name>
-        <type>ConnectedApp</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>standard__Approvals</name>
         <type>CustomApplication</type>
     </appMenuItems>
@@ -147,5 +143,17 @@
     <appMenuItems>
         <name>standard__PreconfiguredLightningServiceConsole</name>
         <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>portal</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>swapAura</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Opsera</name>
+        <type>ConnectedApp</type>
     </appMenuItems>
 </AppMenu>

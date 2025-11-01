@@ -51,12 +51,13 @@
             <name>Task_related_workflow_rle_assigned_to_swapnali</name>
             <type>Task</type>
         </actions>
-        <active>false</active>
+        <active>true</active>
         <criteriaItems>
             <field>Case.Status</field>
             <operation>notEqual</operation>
             <value>Closed</value>
         </criteriaItems>
+        <description>test PR</description>
         <triggerType>onCreateOnly</triggerType>
     </rules>
     <rules>
@@ -69,7 +70,7 @@
             <name>Task_related_workflow_rle_assigned_to_swapnali</name>
             <type>Task</type>
         </actions>
-        <active>true</active>
+        <active>false</active>
         <criteriaItems>
             <field>Case.OwnerId</field>
             <operation>equals</operation>
