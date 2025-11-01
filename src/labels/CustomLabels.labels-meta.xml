@@ -7327,6 +7327,14 @@ For further support, please contact the &lt;a href=&quot;mailto:Export-Control.g
         <value>Account, Opportunity, Offer__c</value>
     </labels>
     <labels>
+        <fullName>OctLabel1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OctLabel1</shortDescription>
+        <value>test second 537 
+again 538</value>
+    </labels>
+    <labels>
         <fullName>Offer_Clone</fullName>
         <language>en_US</language>
         <protected>false</protected>

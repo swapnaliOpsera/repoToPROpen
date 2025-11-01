@@ -6,5 +6,6 @@
     <enableDeclineReason>false</enableDeclineReason>
     <enableDisconnectSound>true</enableDisconnectSound>
     <enableRequestSound>true</enableRequestSound>
+    <hasAfterConvoWorkTimer>false</hasAfterConvoWorkTimer>
     <label>Default Presence Configuration</label>
 </PresenceUserConfig>
