@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>LeadNomin</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>LeadsNomins</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value>LeadAccu</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value>LeadsAccus</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value>LeadsGen</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value>LeadsGens</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value>LeadDative</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value>LeadsDatives</value>
+    </caseValues>
+    <gender>Masculine</gender>
+    <layouts>
+        <layout>Foundation</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- closure --></label>
+            <section>closure</section>
+        </sections>
+        <sections>
+            <label><!-- compaign --></label>
+            <section>compaign</section>
+        </sections>
+        <sections>
+            <label><!-- information --></label>
+            <section>information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Lead Layout</layout>
+        <sections>
+            <label><!-- TestSectionLead --></label>
+            <section>TestSectionLead</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>PRM portal swap</layout>
+        <sections>
+            <label><!-- Closure --></label>
+            <section>Closure</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- campaign --></label>
+            <section>campaign</section>
+        </sections>
+        <sections>
+            <label><!-- start --></label>
+            <section>start</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>
