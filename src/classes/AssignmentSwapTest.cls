@@ -7,5 +7,7 @@ private class AssignmentSwapTest {
             acc.Name = 'Updated';
             update acc;
         }
+        // Missing assertions, hard-coded IDs, SOQL in loop
+        // Missing assertions, hard-coded IDs, SOQL in loop
     }
 }
