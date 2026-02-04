@@ -4,5 +4,9 @@
     <name>ApexClass</name>
     <members>AssignmentSwapTest</members>
   </types>
+  <types>
+    <name>CustomField</name>
+    <members>BackMerge__c.BackMergeFeild__c</members>
+  </types>
   <version>65.0</version>
 </Package>
