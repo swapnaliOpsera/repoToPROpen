@@ -6,10 +6,11 @@ public static Decimal FahrenheitToCelsius(Decimal fh) {
 //test dynamic branch 
 //branch retain
 
-//test dynamic branch 
 //branch retain
 //test dynamic branch 
 //branch retain
 //test dynamic branch 
 //test dynamic branch test
+//test
+//protected rule
 }
