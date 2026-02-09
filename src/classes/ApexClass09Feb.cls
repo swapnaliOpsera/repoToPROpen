@@ -1,4 +1,4 @@
-public class ApexClass06Aug {
+public class ApexClass09Feb {
 public static Decimal FahrenheitToCelsius(Decimal fh) {
     Decimal cs = (fh - 32) * 5/9;
     return cs.setScale(2);
@@ -12,6 +12,6 @@ public static Decimal FahrenheitToCelsius(Decimal fh) {
 //test dynamic branch 
 //test dynamic branch test
 //test
-//protected rule 09 feb changes
+//protected rule
 // 09 Feb
 }
