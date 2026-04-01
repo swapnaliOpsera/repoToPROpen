@@ -16,7 +16,7 @@ private class ContactHandlerTest2 {
         Test.stopTest();
         System.assertEquals('First and last name are required', result);
     }
-//100% test coverage 20 to 38 lines should enabled
+//100% test coverage 20 to 38 lines should enabled test
   @isTest
     static void testCreateContact_MissingLastName() {
         Test.startTest();
