@@ -3,6 +3,6 @@
     <fullName>date__c</fullName>
     <fieldManageability>DeveloperControlled</fieldManageability>
     <label>date</label>
-    <required>false</required>
+    <required>true</required>
     <type>Date</type>
 </CustomField>
