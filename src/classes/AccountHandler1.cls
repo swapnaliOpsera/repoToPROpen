@@ -14,12 +14,12 @@ public class AccountHandler1 {
     //  - Unused variables
     //  - Nested conditionals
     //  - No bulk-safe design
-    //test conflict
-
+//test conflict
+    
 
 //testing PR review
     public static void insertAccount(Integer n) {
-
+// test conflict from Salesforce on 13 April
 //Dev changes 
 System.debug('Dev 1: ');
 System.debug('Tech accounts count: ' );
