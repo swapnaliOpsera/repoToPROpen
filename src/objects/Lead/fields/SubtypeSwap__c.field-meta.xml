@@ -41,6 +41,11 @@
                 <default>false</default>
                 <label>contact us - portal</label>
             </value>
+            <value>
+                <fullName>contact us - mobile</fullName>
+                <default>false</default>
+                <label>contact us - mobile</label>
+            </value>
         </valueSetDefinition>
         <valueSettings>
             <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
@@ -63,6 +68,7 @@
             <valueName>Contact Us - Phone</valueName>
         </valueSettings>
         <valueSettings>
+            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
             <controllingFieldValue>Direct</controllingFieldValue>
             <valueName>contact us - portal</valueName>
         </valueSettings>
