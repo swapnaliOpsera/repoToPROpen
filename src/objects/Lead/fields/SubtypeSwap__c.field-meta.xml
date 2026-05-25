@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SubtypeSwap__c</fullName>
+    <label>SubtypeSwap</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>TypeSwap__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Article</fullName>
+                <default>false</default>
+                <label>Article</label>
+            </value>
+            <value>
+                <fullName>Blog</fullName>
+                <default>false</default>
+                <label>Blog</label>
+            </value>
+            <value>
+                <fullName>Contact Us - Chat</fullName>
+                <default>false</default>
+                <label>Contact Us - Chat</label>
+            </value>
+            <value>
+                <fullName>Contact Us - Phone</fullName>
+                <default>false</default>
+                <label>Contact Us - Phone</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
+            <controllingFieldValue>Direct</controllingFieldValue>
+            <valueName>Article</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
+            <controllingFieldValue>Direct</controllingFieldValue>
+            <valueName>Blog</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
+            <controllingFieldValue>Direct</controllingFieldValue>
+            <valueName>Contact Us - Chat</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
+            <controllingFieldValue>Direct</controllingFieldValue>
+            <valueName>Contact Us - Phone</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>
