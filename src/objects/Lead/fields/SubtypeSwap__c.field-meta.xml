@@ -53,22 +53,18 @@
             <valueName>Article</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
             <controllingFieldValue>Direct</controllingFieldValue>
             <valueName>Blog</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
             <controllingFieldValue>Direct</controllingFieldValue>
             <valueName>Contact Us - Chat</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
             <controllingFieldValue>Direct</controllingFieldValue>
             <valueName>Contact Us - Phone</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>Digital - 3rd Party</controllingFieldValue>
             <controllingFieldValue>Direct</controllingFieldValue>
             <valueName>contact us - portal</valueName>
         </valueSettings>
