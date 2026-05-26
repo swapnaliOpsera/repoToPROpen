@@ -18,7 +18,7 @@
         <fullName>AACustLabel_New</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>AACustLabel New</shortDescription>
+        <shortDescription>AACustLabel New November</shortDescription>
         <value>Translation testing</value>
     </labels>
     <labels>
@@ -32,14 +32,14 @@
         <fullName>Accenture_Admin</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>Accenture Admin</shortDescription>
+        <shortDescription>Accenture AdminTest30Oct</shortDescription>
         <value>Accenture Admin</value>
     </labels>
     <labels>
         <fullName>AccessDenied</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>AccessDenied</shortDescription>
+        <shortDescription>AccessDeniedTestOnNove2</shortDescription>
         <value>You do not have the required access to clone.</value>
     </labels>
     <labels>
@@ -105,6 +105,13 @@
         <protected>false</protected>
         <shortDescription>Req 4603: The label is used for addition of 30 days.</shortDescription>
         <value>30</value>
+    </labels>
+    <labels>
+        <fullName>Add_Pipeline_id</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add Pipeline idn test prod July oct</shortDescription>
+        <value>123675</value>
     </labels>
     <labels>
         <fullName>Admin</fullName>
@@ -173,7 +180,7 @@
         <fullName>Associated_Account_is_not_active</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>Associated Account is not active</shortDescription>
+        <shortDescription>Associated Account is not activteste</shortDescription>
         <value>The Account you have chosen is inactive. Please set it to active first or choose a different Account</value>
     </labels>
     <labels>
@@ -209,7 +216,7 @@
         <fullName>BOM_Upload_QTC_CQ_Id</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>BOM_Upload_QTC_CQ_Id Edited manually</shortDescription>
+        <shortDescription>BOM_Upload_QTC_CQ_Id</shortDescription>
         <value>16603cff-93ae-4c13-82ea-469e22340726</value>
     </labels>
     <labels>
@@ -478,7 +485,7 @@ Nokia Support</value>
         <categories>Case Handling</categories>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>CH CA Permission Set</shortDescription>
+        <shortDescription>CH CA Permission SetTest</shortDescription>
         <value>CARE_DVT_Admin,CH_DVT_Adminstration,CARE_DVT_Admin_Group</value>
     </labels>
     <labels>
@@ -2241,7 +2248,7 @@ DEF</value>
         <fullName>Current_Period_Start_Date</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>Current Period Start Date edit opsera 1 again </shortDescription>
+        <shortDescription>Current Period Start Date</shortDescription>
         <value>2022-04-02</value>
     </labels>
     <labels>
@@ -6254,7 +6261,7 @@ System Information - Do Not Delete %0A %0A</value>
         <fullName>NF_Execute_Start_Delivery</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>NF_Execute (Start Delivery) edit opsera again </shortDescription>
+        <shortDescription>NF_Execute (Start Delivery)</shortDescription>
         <value>https://nokia--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000002Ay8O&amp;oid=00D030000004gKS</value>
     </labels>
     <labels>
@@ -7325,6 +7332,14 @@ For further support, please contact the &lt;a href=&quot;mailto:Export-Control.g
         <protected>false</protected>
         <shortDescription>Objects For Next Screen File</shortDescription>
         <value>Account, Opportunity, Offer__c</value>
+    </labels>
+    <labels>
+        <fullName>OctLabel1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OctLabel1</shortDescription>
+        <value>test second 537 
+again 538</value>
     </labels>
     <labels>
         <fullName>Offer_Clone</fullName>
@@ -8434,7 +8449,7 @@ NSW = CNS  Lead BU: CNS</value>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>TestArunUAT12JAN2025</shortDescription>
-        <value>opseradev1</value>
+        <value>opseradev1Test</value>
     </labels>
     <labels>
         <fullName>Test19042024</fullName>
@@ -8456,6 +8471,13 @@ NSW = CNS  Lead BU: CNS</value>
         <protected>false</protected>
         <shortDescription>TestDemo4thOct</shortDescription>
         <value>Test1Test2</value>
+    </labels>
+    <labels>
+        <fullName>TestLabel25March</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TestLabel25March</shortDescription>
+        <value>=&amp;</value>
     </labels>
     <labels>
         <fullName>TestQA</fullName>
@@ -8726,6 +8748,13 @@ Business transaction related to an end customer in a US sanctioned country: Cuba
 &lt;/p&gt;</value>
     </labels>
     <labels>
+        <fullName>button</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>button</shortDescription>
+        <value>button modified</value>
+    </labels>
+    <labels>
         <fullName>dummy_label</fullName>
         <language>en_US</language>
         <protected>false</protected>
@@ -8742,6 +8771,27 @@ Business transaction related to an end customer in a US sanctioned country: Cuba
         <protected>false</protected>
         <shortDescription>emailbatch_CQterrsharing</shortDescription>
         <value>rakesh.dandae@accenture.com;sahely.banerjee@accenture.com;rakesh.dandae.ext@nokia.com</value>
+    </labels>
+    <labels>
+        <fullName>label22</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label22_1</shortDescription>
+        <value>22 April - 1</value>
+    </labels>
+    <labels>
+        <fullName>label23</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label23</shortDescription>
+        <value>label23</value>
+    </labels>
+    <labels>
+        <fullName>object</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>object</shortDescription>
+        <value>hi</value>
     </labels>
     <labels>
         <fullName>ps_StopIssueReportedBySharingTemp</fullName>
