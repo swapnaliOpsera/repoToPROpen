@@ -5,8 +5,8 @@
         <description>Email Alert</description>
         <protected>false</protected>
         <recipients>
-           <!-- <recipient>integration@00dcz000004c8abuac.com</recipient>-->
-            <recipient>swapnali.pise@opsera.io</recipient>
+             <recipient>swapnali.pise@opsera.io</recipient>
+            
             <type>user</type>
         </recipients>
         <senderType>CurrentUser</senderType>
@@ -17,7 +17,6 @@
         <description>Password Reset Request - Action Required</description>
         <protected>false</protected>
         <recipients>
-           <!-- <recipient>integration@00dcz000004c8abuac.com</recipient> -->
             <recipient>swapnali.pise@opsera.io</recipient>
             <type>user</type>
         </recipients>
@@ -29,18 +28,22 @@
         <description>Unrecognized Login Attempt</description>
         <protected>false</protected>
         <recipients>
-            <!-- <recipient>insightsintegration@00dcz000004c8abuac.ext</recipient> -->
-            <recipient>swapnali.pise@opsera.io</recipient>
+             <recipient>swapnali.pise@opsera.io</recipient>
             <type>user</type>
         </recipients>
-       <!-- <recipients>
-           <recipient>integration@00dcz000004c8abuac.com</recipient> 
-            <recipient>swapnali.pise@opsera.io</recipient>
-            <type>user</type>
-        </recipients> -->
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/ContactFollowUpSAMPLE</template>
     </alerts>
+    <fieldUpdates>
+        <fullName>ChangePriorityToHigh</fullName>
+        <field>Priority</field>
+        <literalValue>High</literalValue>
+        <name>Changes the case priority to high.</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
     <fieldUpdates>
         <fullName>Fieldupdate19may</fullName>
         <description>Test</description>
