@@ -33,11 +33,11 @@
             <recipient>swapnali.pise@opsera.io</recipient>
             <type>user</type>
         </recipients>
-        <recipients>
+       <!-- <recipients>
            <!-- <recipient>integration@00dcz000004c8abuac.com</recipient> -->
             <recipient>swapnali.pise@opsera.io</recipient>
             <type>user</type>
-        </recipients>
+        </recipients> -->
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/ContactFollowUpSAMPLE</template>
     </alerts>
