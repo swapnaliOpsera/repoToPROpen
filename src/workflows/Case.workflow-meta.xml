@@ -5,7 +5,8 @@
         <description>Email Alert</description>
         <protected>false</protected>
         <recipients>
-            <recipient>integration@00dcz000004c8abuac.com</recipient>
+           <!-- <recipient>integration@00dcz000004c8abuac.com</recipient>-->
+            <recipient>swapnali.pise@opsera.io</recipient>
             <type>user</type>
         </recipients>
         <senderType>CurrentUser</senderType>
@@ -16,7 +17,8 @@
         <description>Password Reset Request - Action Required</description>
         <protected>false</protected>
         <recipients>
-            <recipient>integration@00dcz000004c8abuac.com</recipient>
+           <!-- <recipient>integration@00dcz000004c8abuac.com</recipient> -->
+            <recipient>swapnali.pise@opsera.io</recipient>
             <type>user</type>
         </recipients>
         <senderType>CurrentUser</senderType>
@@ -27,7 +29,8 @@
         <description>Unrecognized Login Attempt</description>
         <protected>false</protected>
         <recipients>
-            <recipient>insightsintegration@00dcz000004c8abuac.ext</recipient>
+            <!-- <recipient>insightsintegration@00dcz000004c8abuac.ext</recipient> -->
+            <recipient>swapnali.pise@opsera.io</recipient>
             <type>user</type>
         </recipients>
         <recipients>
