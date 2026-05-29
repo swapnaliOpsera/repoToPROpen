@@ -23,7 +23,7 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/Lead_Assignment_Template</template>
     </alerts>
-    <alerts>
+<!--<alerts>
         <fullName>Unrecognized_Login_Attempt</fullName>
         <description>Unrecognized Login Attempt</description>
         <protected>false</protected>
@@ -33,7 +33,7 @@
         </recipients>
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/ContactFollowUpSAMPLE</template>
-    </alerts>
+    </alerts>-->
     <fieldUpdates>
         <fullName>ChangePriorityToHigh</fullName>
         <field>Priority</field>
