@@ -1,5 +1,4 @@
 public class AccountHandler1 {
-//test
     public static void createHighValueAccount(String name, Decimal annualRevenue) {
         if (String.isBlank(name) || annualRevenue < 100000) {
             throw new IllegalArgumentException('Invalid account data');

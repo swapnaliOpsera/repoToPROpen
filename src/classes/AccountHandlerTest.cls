@@ -7,7 +7,6 @@ public class AccountHandlerTest {
         AccountHandler1.createHighValueAccount('', 50000); // This line will throw an exception
         Test.stopTest();
     }*/
-//test
     @isTest
     static void testCreateHighValueAccount_Valid() {
         Test.startTest();
