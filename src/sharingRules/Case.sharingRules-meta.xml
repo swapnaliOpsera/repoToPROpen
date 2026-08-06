@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>CaseSharingRule19May</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>CaseSharingRule19May</label>
+        <sharedTo>
+            <role>ChannelSalesTeam</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>Status</field>
+            <operation>equals</operation>
+            <value>Closed</value>
+        </criteriaItems>
+        <includeRecordsOwnedByAll>true</includeRecordsOwnedByAll>
+    </sharingCriteriaRules>
+    <sharingOwnerRules>
+        <fullName>CaseSharingRule19May2</fullName>
+        <accessLevel>Read</accessLevel>
+        <label>CaseSharingRule19May2</label>
+        <sharedTo>
+            <role>MarketingTeam</role>
+        </sharedTo>
+        <sharedFrom>
+            <allInternalUsers></allInternalUsers>
+        </sharedFrom>
+    </sharingOwnerRules>
+</SharingRules>

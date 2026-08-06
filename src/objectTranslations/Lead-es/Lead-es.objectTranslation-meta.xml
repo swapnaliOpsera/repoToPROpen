@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Foundation</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label>closureSpanishCHnaged</label>
+            <section>closure</section>
+        </sections>
+        <sections>
+            <label>compaignSpanish</label>
+            <section>compaign</section>
+        </sections>
+        <sections>
+            <label>informationSpanish</label>
+            <section>information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Lead Layout</layout>
+        <sections>
+            <label><!-- TestSectionLead --></label>
+            <section>TestSectionLead</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>PRM portal swap</layout>
+        <sections>
+            <label>closureSpanish</label>
+            <section>Closure</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label>campaignSpanish</label>
+            <section>campaign</section>
+        </sections>
+        <sections>
+            <label>startSpanish</label>
+            <section>start</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

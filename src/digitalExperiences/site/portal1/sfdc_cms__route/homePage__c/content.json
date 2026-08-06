@@ -1,0 +1,12 @@
+{
+  "type" : "sfdc_cms__route",
+  "title" : "homePage",
+  "contentBody" : {
+    "activeViewId" : "homePage",
+    "configurationTags" : [ ],
+    "pageAccess" : "UseParent",
+    "routeType" : "custom-homepage",
+    "urlPrefix" : "homepage"
+  },
+  "urlName" : "homepage"
+}

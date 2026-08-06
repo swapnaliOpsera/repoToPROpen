@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- TestMultiselectPicklistValue --></label>
+    <name>TestMultiselectPicklistValue__c</name>
+    <picklistValues>
+        <masterLabel>falllss</masterLabel>
+        <translation><!-- falllss --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>false</masterLabel>
+        <translation><!-- false --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>true</masterLabel>
+        <translation><!-- true --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>truuu</masterLabel>
+        <translation><!-- truuu --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
