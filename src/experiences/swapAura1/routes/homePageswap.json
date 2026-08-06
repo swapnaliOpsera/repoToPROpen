@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "976d9b0b-f4e8-45bc-8b5a-48c18d817871",
+  "appPageId" : "c381a1a1-bda6-40e1-a0a5-4de9fddd6d33",
+  "configurationTags" : [ ],
+  "devName" : "homePageswap__c",
+  "id" : "fa35c083-a955-4584-af64-75dece1901c4",
+  "label" : "homePageswap",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-homepageswap",
+  "type" : "route",
+  "urlPrefix" : "homepageswap"
+}
